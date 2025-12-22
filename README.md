@@ -15,6 +15,7 @@ SYF Core implements:
 - **R** — Systemic Ratio (invariant output)
 - **FirePlank™** — Safety floor (continuity constraint)
 - **Core Axioms** — No governance, no oracle, no feedback, no intent
+- **K is intentionally expressed as a composite stabilizing term at this stage.
 
 ## What SYF Core Is NOT
 
