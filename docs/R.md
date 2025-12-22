@@ -33,5 +33,3 @@ but **SYF Core never consumes or reacts to R**.
 Derived systems may track additional contextual variables (e.g., Dormancy),  
 but this must not change the core definition of R.
 
----
-End of document.

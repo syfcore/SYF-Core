@@ -24,5 +24,3 @@ FirePlank™ is a mathematical continuity constraint that ensures R never falls 
 
 > FirePlank™ is a **thermodynamic floor**, not a monetary policy.
 
----
-End of document.
